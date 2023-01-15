@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "FirstName": "Jan",
+    "LastName": "Nowak",
+    "Birthday": "04.03.2002",
+    "WorkType": "pracownik fizyczny",
+    "PerHour": 18.5,
+    "Salary": 0
+  },
+  {
+    "Id": "2",
+    "FirstName": "Agnieszka",
+    "LastName": "Kowalska",
+    "Birthday": "15.12.1973",
+    "WorkType": "urzędnik",
+    "PerHour": 0,
+    "Salary": 2800
+  },
+  {
+    "Id": "3",
+    "FirstName": "Robert",
+    "LastName": "Lewandowski",
+    "Birthday": "23.05.1980",
+    "WorkType": "pracownik fizyczny",
+    "PerHour": 29,
+    "Salary": 0
+  },
+  {
+    "Id": "4",
+    "FirstName": "Zofia",
+    "LastName": "Plucińska",
+    "Birthday": "02.11.1998",
+    "WorkType": "urzędnik",
+    "PerHour": 0,
+    "Salary": 4750
+  },
+  {
+    "Id": "5",
+    "FirstName": "Grzegorz",
+    "LastName": "Braun",
+    "Birthday": "29.01.1960",
+    "WorkType": "pracownik fizyczny",
+    "PerHour": 48,
+    "Salary": 0
+  }
+]
